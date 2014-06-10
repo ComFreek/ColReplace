@@ -2,6 +2,8 @@
 
 Plugin for Notepad++ which provides a row and column constrained search/replace feature
 
+You can find screenshots at [the end of this document](https://github.com/ComFreek/ColReplace#screenshots).
+
 ## Installation
 
 You need:
